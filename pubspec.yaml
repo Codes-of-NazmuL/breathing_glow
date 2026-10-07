@@ -1,0 +1,19 @@
+name: breathing_glow
+description: A serene, organic breathing glow and ambient pulsing aura animation widget for Flutter with zero dependencies.
+version: 1.0.0
+homepage: https://github.com/Codes-of-NazmuL/breathing_glow
+repository: https://github.com/Codes-of-NazmuL/breathing_glow
+issue_tracker: https://github.com/Codes-of-NazmuL/breathing_glow/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
